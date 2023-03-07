@@ -1,0 +1,1 @@
+Select * from class c right outer join textbook t on c.class_title = t.class_title

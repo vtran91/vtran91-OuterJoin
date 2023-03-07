@@ -1,0 +1,1 @@
+Select * from class c left outer join student s on c.class_title = s.class_title
